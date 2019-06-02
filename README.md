@@ -14,11 +14,11 @@ A simple Python project to create a 2D graphic (X and Y axes only) using *Flask*
     ```
 
 2. Clone this repo and create folder named *storage* to store the graphic output. This program will create a new graphic in that folder everytime it runs with name sorted by number. Look at the example of how the results would be:
-    ![Storage](./ss1.png)
+    ![Storage](./ss3.png)
 
 3. *Run* the program.
 The home page of the program will look like this:
-    ![HomeRoute](./ss2.png)
+    ![HomeRoute](./ss4.png)
     **_Remember!_** This program would only work if the amount of axes in both X and Y are the same. Otherwise, it would be an error.
 
 4. *Create graph!* 
