@@ -1,7 +1,7 @@
 ![purwadhikaLogo](https://d1ah56qj523gwb.cloudfront.net/uploads/organizations/logos/1538557444-kcgv11HXelvcOnlyrGcEpfwAf6hbPMhC.png)
 
 # Simple 2D Graphic Maker Program using Flask, Numpy, and Matplotlib
-A simple Python project to create a 2D graphic (X and Y axes only) using *Flask* framework, *Numpy*, *Matplotlib* (along with the pyplot package) to yield the graphic output.
+A simple Python project to create a 2D graphic (X and Y axes only) using *Flask* framework, *Numpy* (to create the list), *Matplotlib* (along with the pyplot package) to yield the graphic output.
 1. Install numpy and matplotlib using pip package:
     ```bash
     $ pip install matplotlib
@@ -12,7 +12,7 @@ A simple Python project to create a 2D graphic (X and Y axes only) using *Flask*
     $ py -m pip install matplotlib
     $ py -m pip install numpy
     ```
-    
+
 2. Clone this repo and create folder named *storage* to store the graphic output. This program will create a new graphic in that folder everytime it runs with name sorted by number. Look at the example of how the results would be:
     ![Storage](./ss1.png)
 
